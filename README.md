@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Handlirsch
+- 👋 Hi, I’m Rebecca Rau
 - 👀 I’m interested in biology, wildlife ecology and wildlife management
 - 🌱 I’m currently learning GitHub
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on learning together.
 - 📫 How to reach me on Twitter @itsrebeccarau
 
 <!---
